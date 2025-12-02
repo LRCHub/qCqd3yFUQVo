@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Hexen Noir",
+  "base_artist": "ELFENSJóN",
+  "createdAt": "2025-12-02T08:10:50.061301Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hexen Noir",
+      "artist": "ELFENSJóN",
+      "has_synced": false,
+      "path": "select/pl_01_Hexen_Noir_ELFENSJóN.txt"
+    }
+  ]
+}
